@@ -8,4 +8,4 @@ Used theme: [Grey Theme](https://plugins.jetbrains.com/plugin/12103-gray-theme)
 Used font: [Comic Code](https://tosche.net/fonts/comic-code). Why: [yt link](https://www.youtube.com/watch?v=1zvWXT53puQ)
 
 
-![screen1](https://github.com/shirgazee/goland-not-so-light/blob/master/images/screen.png?raw=true)
+![screen1](https://github.com/shirgazee/goland-not-so-light/blob/main/images/screen.png)
